@@ -1,0 +1,46 @@
+
+<<<<<<< HEAD
+HELP.md
+.gradle
+>>>>>>> 6142400 (catismalar cozuldu)
+build/
+.gradle/
+*.jar
+.idea/
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+=======
+build/
+.gradle/
+*.jar
+.idea/
+out/
+>>>>>>> 6142400 (catismalar cozuldu)
+logs/
+*.log
+*.swp
+*~
+/docker-volumes/
+api-gateway/
+config-server/
+api-gateway/
+config-server/
+discovery-service/
+game-service
+music-game-project
+user-service
+<<<<<<< HEAD
+=======
+>>>>>>> 97185c8 (Initial project structure with microservices)
+>>>>>>> 6142400 (catismalar cozuldu)

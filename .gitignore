@@ -1,0 +1,10 @@
+build/
+.gradle/
+*.jar
+.idea/
+out/
+logs/
+*.log
+*.swp
+*~
+/docker-volumes/
